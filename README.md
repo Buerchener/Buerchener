@@ -1,5 +1,7 @@
 # Hi, I'm Buerchener
 
+Welcome to my GitHub profile.
+
 ## Contribution Pac-Man
 
 <p align="center">
