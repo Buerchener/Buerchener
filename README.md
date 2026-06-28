@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-## Contribution Pac-Man
+## Contribution
 
 <p align="center">
   <picture>
